@@ -1,0 +1,6 @@
+range: 2..1000000
+equation solutions: [2, 3, 5, 17, 257, 65537]
+predicted solutions: [2, 3, 5, 17, 257, 65537]
+all solution sets agree: True
+prime lemma: True
+even lemma: True

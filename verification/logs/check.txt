@@ -1,0 +1,4 @@
+range: 2.. 3000
+equation solutions: [2, 3, 5, 17, 257]
+predicted solutions: [2, 3, 5, 17, 257]
+sets and both lemmas: PASS
