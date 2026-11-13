@@ -1,7 +1,7 @@
 # OEIS A092506: totient equation (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted** (lab registry, 14 Nov 2026).
 
 - [A092506](https://oeis.org/A092506), Cloitre's conjecture proved (iff x = 2 or a Fermat prime): **candidate** (2026-11-13: repository built (core c5)). Certificate: partial.
 
