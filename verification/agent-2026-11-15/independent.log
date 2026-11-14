@@ -1,0 +1,16 @@
+range: 2..50000000 (inclusive)
+method: linear least-prime-factor recurrence for phi, full-range equation/lemma checks, gcd counts through 5000
+prime count: 3001134
+equation solutions: [2, 3, 5, 17, 257, 65537]
+predicted solutions: [2, 3, 5, 17, 257, 65537]
+equation/prediction mismatches: 0
+prime-bound equality mismatches: 0
+even-bound violations: 0
+even-bound equality mismatches: 0
+gcd-definition/recurrence mismatches (2..5000): 0
+sieve seconds: 0.455481
+test seconds: 0.525688
+total seconds: 0.98117
+verdict: PASS
+wall seconds: 0.99
+max RSS KB: 408632
